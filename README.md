@@ -20,7 +20,7 @@
 * **Graduate Teaching Assistant**
    * National University of Sciences & Technology, CEME, Pakistan (October/2024 till January/2025)
    * Subject: Engineering Drawing (Manual & AutoCad)
-   * Duties: Assisting senior professor by giving weekly lectures. Taking quizzes and exams. Compiling results. 
+   * Duties: Assisting senior professor by giving weekly lectures. Taking quizzes and exams. Compilling results. 
 
 <hr>
 
