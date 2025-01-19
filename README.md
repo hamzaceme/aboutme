@@ -1,3 +1,4 @@
+# Hamza Khan
 ### Education
 
 * **Master of Science in Computer Science**
