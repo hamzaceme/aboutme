@@ -1,7 +1,8 @@
-# Hamza Khan
+# Mechanical Engineer
 ### Education
 
-* **Master of Science in Computer Science**
-   * University of California, Berkeley (Expected 2024) 
-* **Bachelor of Science in Computer Science**
-   * University of California, Berkeley (2022)
+* **Master of Science in Mechatronics Engineering**
+   * National University of Sciences & Technology, CEME, Pakistan (Expected 2026) 
+* **Bachelor of Science in Mechanical Engineering**
+   * University of Engineering & Technology, Peshawar, Pakistan (December, 2020)
+      *Subjects
