@@ -1,5 +1,4 @@
-# Hamza Khan
-**Education**
+### Education
 
 * **Master of Science in Computer Science**
    * University of California, Berkeley (Expected 2024) 
