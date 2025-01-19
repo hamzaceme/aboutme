@@ -5,4 +5,4 @@
    * National University of Sciences & Technology, CEME, Pakistan (Expected 2026) 
 * **Bachelor of Science in Mechanical Engineering**
    * University of Engineering & Technology, Peshawar, Pakistan (December, 2020)
-      *Subjects
+   * Subjects
