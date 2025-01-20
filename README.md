@@ -38,6 +38,30 @@
    * <a href="https://coursera.org/share/2430c79047a199cd0b65b8e969d4364f" target="_blank">Introduction to Basic Vibrations</a>
    * <a href="https://coursera.org/share/aeff7b3f84e79429d0c96d3eb925374c" target="_blank">Introduction to Thermodynamics: Transferring Energy from Here to There</a>
 
+---
+
+### Skills
+
+#### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" />
+</p>
+
+#### **Software Tools**
+<p>
+  <img src="https://img.shields.io/badge/AutoCAD-D92228?logo=autodesk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+</p>
+
+#### **Soft Skills**
+<p>
+  🗣️ Communication | 🤝 Teamwork | 🌟 Problem-Solving | 📅 Time Management
+</p>
+
+
 <hr>
 
 **This site is under construction. Regards**
