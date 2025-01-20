@@ -4,8 +4,9 @@
 </p>
 <!-- Profile Picture -->
 <p align="left">
-  <img src="{{ site.logo }}" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
+  <img src="/images/githubimg.jpg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
 </p>
+
 <p align="left">
   Yulpo Beach, Jeollanam-do, South Korea
 </p>
