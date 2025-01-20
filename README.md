@@ -29,6 +29,12 @@
 * Soldier Health Monitoring System , Course: Data Aquisition
 * Designing neural network to check engine performance parameters, Course: Paradiagms of AI
 * Color Sorting machine, Course: Mechatronics
+
+---
+
+### Online Certifications
+   * [Robotics: Aerial Robotics](https://coursera.org/share/1548a5db43b5dfc3d467dc6e15a93738)
+
 <hr>
 
 **This site is under construction. Regards**
