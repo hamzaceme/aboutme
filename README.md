@@ -34,6 +34,9 @@
 
 ### Online Certifications
    * <a href="https://coursera.org/share/1548a5db43b5dfc3d467dc6e15a93738" target="_blank">Robotics: Aerial Robotics</a>
+   * <a href="https://coursera.org/share/f35bdc3a1ba27222f69fe7f41cd3181b" target="_blank">Building Arduino robots and devices</a>
+   * <a href="https://coursera.org/share/2430c79047a199cd0b65b8e969d4364f" target="_blank">Introduction to Basic Vibrations</a>
+   * <a href="https://coursera.org/share/aeff7b3f84e79429d0c96d3eb925374c" target="_blank">Introduction to Thermodynamics: Transferring Energy from Here to There</a>
 
 <hr>
 
