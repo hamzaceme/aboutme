@@ -53,7 +53,7 @@
 <p>
   <img src="https://img.shields.io/badge/AutoCAD-D92228?logo=autodesk&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MS Office-217346?logo=microsoft-office&logoColor=white&style=for-the-badge" />
 </p>
 
 #### **Soft Skills**
