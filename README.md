@@ -3,10 +3,10 @@
     As a graduate student at one of the top engineering universities of the world, I am ambitious about achieving research goals in the field of mechanical engineering, further breaking it down to mechatronics. It is my understanding that my research will contribute to the scientific community by the synergistic combination of mechanical engineering, electronics, control systems, and computers. My research interests include but are not limited to robotics 🤖, UAVs 🚁, UGVs 🚕, and rockets 🚀. Let's connect to make a better future.
 </p>
 <!-- Profile Picture -->
-<p align="center">
+<p align="left">
   <img src="{{ site.logo }}" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
 </p>
-<p align="center">
+<p align="left">
   Yulpo Beach, Jeollanam-do, South Korea
 </p>
 
@@ -14,7 +14,7 @@
 
 ### Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/hamzaceme" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
