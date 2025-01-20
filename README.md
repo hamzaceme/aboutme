@@ -76,4 +76,3 @@
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 </p>
-**This site is under construction. Regards**
