@@ -1,5 +1,5 @@
 ## Mechanical Engineer, Designing the future. 
-<p style="text-align: justify; font-size: 18px;"> 
+<p style="text-align: justify; font-size: 15px;"> 
     As a graduate student at one of the top engineering universities of the world, I am ambitious about achieving research goals in the field of mechanical engineering, further breaking it down to mechatronics. It is my understanding that my research will contribute to the scientific community by the synergistic combination of mechanical engineering, electronics, control systems, and computers. My research interests include but are not limited to robotics 🤖, UAVs 🚁, UGVs 🚕, and rockets 🚀. Let's connect to make a better future.
 </p>
 
