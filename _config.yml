@@ -3,3 +3,5 @@ logo: /images/githubimg.jpg
 description: Yulpo Beach, Jeollanam-do, South Korea
 show_downloads: false
 theme: jekyll-theme-minimal
+include:
+  - custom.css
