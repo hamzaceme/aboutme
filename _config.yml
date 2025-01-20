@@ -1,6 +1,21 @@
 title: Hamza Khan
 logo: /images/githubimg.jpg
 description: Yulpo Beach, Jeollanam-do, South Korea
+
+Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+</p>
+
 show_downloads: false
 theme: jekyll-theme-minimal
 include:
