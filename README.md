@@ -22,6 +22,13 @@
    * Duties: Assisting senior professor by giving weekly lectures. Taking quizzes and exams. Compilling results. 
 * **Internship**
    * Water and Power Development Authority, Pakistan
+
+---
+
+### Semester Projects
+* Soldier Health Monitoring System
+* Designing neural network to check engine performance parameters
+* Color Sorting machine
 <hr>
 
 **This site is under construction. Regards**
