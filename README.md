@@ -61,7 +61,21 @@
   🗣️ Communication | 🤝 Teamwork | 🌟 Problem-Solving | 📅 Time Management
 </p>
 
+---
 
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzaceme" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/hamzaceme" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="mailto:mhamzakhan96@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+</p>
 <hr>
 
 **This site is under construction. Regards**
