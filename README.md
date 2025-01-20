@@ -33,7 +33,7 @@
 ---
 
 ### Online Certifications
-   * [Robotics: Aerial Robotics](https://coursera.org/share/1548a5db43b5dfc3d467dc6e15a93738)
+   * <a href="https://coursera.org/share/1548a5db43b5dfc3d467dc6e15a93738" target="_blank">Robotics: Aerial Robotics</a>
 
 <hr>
 
