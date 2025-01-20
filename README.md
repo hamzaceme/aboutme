@@ -26,9 +26,9 @@
 ---
 
 ### Semester Projects
-* Soldier Health Monitoring System
-* Designing neural network to check engine performance parameters
-* Color Sorting machine
+* Soldier Health Monitoring System , Course: Data Aquisition
+* Designing neural network to check engine performance parameters, Course: Paradiagms of AI
+* Color Sorting machine, Course: Mechatronics
 <hr>
 
 **This site is under construction. Regards**
