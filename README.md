@@ -2,30 +2,7 @@
 <p style="text-align: justify; font-size: 15px;"> 
     As a graduate student at one of the top engineering universities of the world, I am ambitious about achieving research goals in the field of mechanical engineering, further breaking it down to mechatronics. It is my understanding that my research will contribute to the scientific community by the synergistic combination of mechanical engineering, electronics, control systems, and computers. My research interests include but are not limited to robotics 🤖, UAVs 🚁, UGVs 🚕, and rockets 🚀. Let's connect to make a better future.
 </p>
-<!-- Profile Picture -->
-<p align="left">
-  <img src="/images/githubimg.jpg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
-</p>
 
-<p align="left">
-  Yulpo Beach, Jeollanam-do, South Korea
-</p>
-
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hamzaceme" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/hamzaceme" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
-  </a>
-  <a href="mailto:mhamzakhan96@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-</p>
 ---
 
 ### Education
@@ -86,4 +63,17 @@
 
 ---
 
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzaceme" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/hamzaceme" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="mailto:mhamzakhan96@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+</p>
 **This site is under construction. Regards**
