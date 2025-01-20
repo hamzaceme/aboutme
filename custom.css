@@ -1,6 +1,6 @@
 body {
     background-color: #f0f0f0; /* Light gray background */
-    background-image: url('https://images.app.goo.gl/qs2RRSPdE7HCXLRF9'); /* Background image (optional) */
+    background-image: url('/images/drone.jpg'); /* Background image (optional) */
     background-size: cover; /* Make the background image cover the whole page */
     background-repeat: no-repeat;
     background-attachment: fixed;
